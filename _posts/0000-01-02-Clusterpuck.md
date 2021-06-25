@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi there!
+Superdoopercaliliscious dude.
+It's the real slim shady
 Use the left arrow to go back!
